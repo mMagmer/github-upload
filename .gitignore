@@ -1,0 +1,4 @@
+# ferplus dataset and images
+
+data/*.tar.gz
+data/fer2013/*.csv
